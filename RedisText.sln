@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisText", "RedisText\RedisText.csproj", "{9AC8D883-B1BB-4C05-AD0E-61FDA44E2404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.Steelv.Lib.RedisCOM", "com.Steelv.Lib.RedisCOM\com.Steelv.Lib.RedisCOM.csproj", "{8256B586-EAB5-48BD-A37A-D1A9C78B1188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC8D883-B1BB-4C05-AD0E-61FDA44E2404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC8D883-B1BB-4C05-AD0E-61FDA44E2404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC8D883-B1BB-4C05-AD0E-61FDA44E2404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC8D883-B1BB-4C05-AD0E-61FDA44E2404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8256B586-EAB5-48BD-A37A-D1A9C78B1188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8256B586-EAB5-48BD-A37A-D1A9C78B1188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8256B586-EAB5-48BD-A37A-D1A9C78B1188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8256B586-EAB5-48BD-A37A-D1A9C78B1188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
